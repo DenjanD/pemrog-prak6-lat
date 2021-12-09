@@ -1,0 +1,15 @@
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\obj\Debug\net6.0-windows\P6_3_1204039_FormControl.csproj.AssemblyReference.cache
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\obj\Debug\net6.0-windows\P6_3_1204039_FormControl.CharTextBox.resources
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\obj\Debug\net6.0-windows\P6_3_1204039_FormControl.NumericTextBox.resources
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\obj\Debug\net6.0-windows\P6_3_1204039_FormControl.csproj.GenerateResource.cache
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\obj\Debug\net6.0-windows\P6_3_1204039_FormControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\obj\Debug\net6.0-windows\P6_3_1204039_FormControl.AssemblyInfoInputs.cache
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\obj\Debug\net6.0-windows\P6_3_1204039_FormControl.AssemblyInfo.cs
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\obj\Debug\net6.0-windows\P6_3_1204039_FormControl.csproj.CoreCompileInputs.cache
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\bin\Debug\net6.0-windows\P6_3_1204039_FormControl.deps.json
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\bin\Debug\net6.0-windows\P6_3_1204039_FormControl.dll
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\bin\Debug\net6.0-windows\ref\P6_3_1204039_FormControl.dll
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\bin\Debug\net6.0-windows\P6_3_1204039_FormControl.pdb
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\obj\Debug\net6.0-windows\P6_3_1204039_FormControl.dll
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\obj\Debug\net6.0-windows\ref\P6_3_1204039_FormControl.dll
+C:\Users\DenjanD\source\repos\P6_3_1204039_FormControl\P6_3_1204039_FormControl\obj\Debug\net6.0-windows\P6_3_1204039_FormControl.pdb

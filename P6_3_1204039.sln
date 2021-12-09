@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P6_3_1204039_FormControl", "P6_3_1204039_FormControl\P6_3_1204039_FormControl.csproj", "{B437A250-4E0F-4440-A371-894E8A546C38}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P6_3_1204039", "P6_3_1204039\P6_3_1204039.csproj", "{C7A6801F-B5B9-45F0-A7F5-05D15ED03C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B437A250-4E0F-4440-A371-894E8A546C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B437A250-4E0F-4440-A371-894E8A546C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B437A250-4E0F-4440-A371-894E8A546C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B437A250-4E0F-4440-A371-894E8A546C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A6801F-B5B9-45F0-A7F5-05D15ED03C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A6801F-B5B9-45F0-A7F5-05D15ED03C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A6801F-B5B9-45F0-A7F5-05D15ED03C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A6801F-B5B9-45F0-A7F5-05D15ED03C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02737296-29E0-426E-8350-FC96F951B114}
+	EndGlobalSection
+EndGlobal
