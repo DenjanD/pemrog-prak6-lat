@@ -66,7 +66,7 @@ namespace P6_3_1204039
                             {
                                 if (NoTelpTextBox.Text != "")
                                 {
-                                    if (ProdiCB.Text != "- Pilih Jenis Kelamin -")
+                                    if (ProdiCB.Text != "- Pilih Program Studi -")
                                     {
                                         string npm = NPMTextBox.Text;
                                         string nama = NamaTextBox.Text;
