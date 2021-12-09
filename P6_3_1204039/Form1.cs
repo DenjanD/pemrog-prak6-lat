@@ -10,6 +10,9 @@ namespace P6_3_1204039
         {
             InitializeComponent();
 
+            LakiRB.Checked = false;
+            PerempuanRB.Checked = false;
+
             string myConnectionString = "integrated security=true;data source=.;initial catalog=P6_1204039";
             SqlConnection conn = new SqlConnection(myConnectionString); conn.Open();
             SqlCommand sc = new SqlCommand("SELECT * FROM msprodi", conn);
@@ -179,6 +182,8 @@ namespace P6_3_1204039
             NamaTextBox.Text = null;
             AlamatTextBox.Text = null;
             NoTelpTextBox.Text = null;
+            LakiRB.Checked = false;
+            PerempuanRB.Checked = false;
             ProdiCB.SelectedIndex = 0;
         }
     }
