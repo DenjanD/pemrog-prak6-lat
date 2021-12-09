@@ -65,11 +65,6 @@ namespace P6_3_1204039
                                 {
                                     if (ProdiCB.Text != "- Pilih Jenis Kelamin -")
                                     {
-                                        MessageBox.Show
-                                                    ("Sudah diisi semua",
-                                                    "Informasi Data Submit",
-                                                    MessageBoxButtons.OK, MessageBoxIcon.Information);
-
                                         string npm = NPMTextBox.Text;
                                         string nama = NamaTextBox.Text;
                                         string ttl = TanggalLahirDT.Text;
@@ -110,9 +105,9 @@ namespace P6_3_1204039
 
                                                     int rowsAdded = cmd.ExecuteNonQuery();
                                                     if (rowsAdded > 0)
-                                                        MessageBox.Show("Row inserted!!");
+                                                        MessageBox.Show("Data berhasil disimpan");
                                                     else
-                                                        MessageBox.Show("No row inserted");
+                                                        MessageBox.Show("Tidak ada data yang disimpan");
 
                                                 }
                                             }
